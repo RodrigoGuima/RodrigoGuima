@@ -1,4 +1,8 @@
-### Hi there 👋
+## Olá 👋
+
+### Quem sou eu?
+Meu nome é Rodrigo Guimarães e sou desenvolvedor principalmente backend porém sou muito entusiasta no frontend.
+
 
 <!--
 **RodrigoGuima/RodrigoGuima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
