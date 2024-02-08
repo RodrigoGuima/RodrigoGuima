@@ -1,7 +1,30 @@
 ## Olá 👋
 
-### Quem sou eu?
+### 🤔 Quem sou eu?
 Meu nome é Rodrigo Guimarães e sou desenvolvedor principalmente backend porém sou muito entusiasta no frontend.
+
+<!--
+## Trabalho com
+- Java
+- Spring
+- HTML
+- CSS
+- Javascript
+- React
+-->
+
+## 🌟 Tecnologias com as quais estou trabalhando atualmente 🌟
+- Java
+- Spring
+- HTML
+- CSS
+- Javascript
+
+## ⭐ Tecnologias que já tive contato ⭐
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="50px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" width="50px" />
+          
+
+
 
 
 <!--
