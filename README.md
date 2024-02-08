@@ -24,7 +24,7 @@ Meu nome é Rodrigo Guimarães e sou desenvolvedor principalmente backend porém
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="50px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" width="50px" />
           
 
-
+[![Status do perfil Rodrigo Guimarães](https://github-readme-stats.vercel.app/api?username=RodrigoGuima&hide=prs,issues,contribs&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
