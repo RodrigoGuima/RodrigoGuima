@@ -25,6 +25,7 @@ Meu nome é Rodrigo Guimarães e sou desenvolvedor principalmente backend porém
           
 
 [![Status do perfil Rodrigo Guimarães](https://github-readme-stats.vercel.app/api?username=RodrigoGuima&hide=prs,issues,contribs&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoGuima&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
